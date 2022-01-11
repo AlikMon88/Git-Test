@@ -1,4 +1,4 @@
-<h1 style="color:yellow; text-shadow:2px 2px orange;"> Git-Test </h1>
+<h1> Git-Test </h1>
 <br>
 For Git Testing Purpose |  Not for Official use
 
@@ -12,7 +12,7 @@ For Git Testing Purpose |  Not for Official use
 7. git checkout
 8. git merge
 
-<p><b style="color:yellow; text-shadow:2px 2px orange;"> Git-Info </b></p>
+<p><b> Git-Info </b></p>
 <img style = "width:auto; height:auto;" src="git-info.PNG" />
 
 $ after creating a pull request merge confirmation by the repo owmer is required to merge it to the
