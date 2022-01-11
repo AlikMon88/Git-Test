@@ -12,7 +12,7 @@ For Git Testing Purpose |  Not for Official use
 8. git merge
 
 <p><b> Git-Info </b></p>
-<img style = "width:200px; height:200px;" src="git-info.PNG" />
+<img style = "width:auto; height:auto;" src="git-info.PNG" />
 
 $ after creating a pull request merge confirmation by the repo owmer is required to merge it to the
 master branch
