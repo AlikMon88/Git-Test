@@ -1,4 +1,4 @@
-<h1 style="color:white; text-shadow:2px 2px orange;"> Git-Test </h1>
+<h1 style="color:lightgrey; text-shadow:2px 2px orange;"> Git-Test </h1>
 <br>
 For Git Testing Purpose |  Not for Official use
 
