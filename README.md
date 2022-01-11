@@ -1,4 +1,4 @@
-<h2 style="text-shadow: orchid;"> Git-Test </h2>
+<h2 style="text-shadow:2px 2px orchid;"> Git-Test </h2>
 For Git Testing Purpose |  Not for Official use
 
 1. git init
