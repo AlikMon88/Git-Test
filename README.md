@@ -13,3 +13,6 @@ For Git Testing Purpose |  Not for Official use
 
 $ after creating a pull request merge confirmation by the repo owmer is required to merge it to the
 master branch
+
+for more :
+<b><a href="https://learngitbranching.js.org/"> Go here </a></b>
