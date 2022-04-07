@@ -11,6 +11,7 @@ For Git Testing Purpose |  Not for Official use
 6. git branch 
 7. git checkout
 8. git merge
+9. git rm -r --cached . (remove all changed files from staging area) --> git add . (track them again) --> git commit (commit the changes again) 
 
 <p><b> Git-Info </b></p>
 <img style = "width:auto; height:auto;" src="git-info.PNG" />
